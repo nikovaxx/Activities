@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.15",
+  "apiVersion": 1,
+  "author": {
+    "id": "932176594045378590",
+    "name": "niko_vax"
+  },
+  "service": "Comix",
+  "description": {
+    "en": "Comix is a modern online manga reading platform designed to bring fans closer to their favorite stories in a smarter and more personalized way. At Comix, we believe reading manga should be simple, fast, and enjoyable without distractions. With our platform, readers can access a vast collection of manga from different genres, track their reading progress, and discover new titles that match their unique tastes. Comix is not just another manga site, it is a community-driven platform built to make your reading journey seamless and engaging."
+  },
+  "url": "comix.to",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/7mchnjH.png",
+  "thumbnail": "https://i.imgur.com/8Wqodpd.jpeg",
+  "color": "#a385ff",
+  "category": "other",
+  "tags": [
+    "manga",
+    "manhwa",
+    "comics"
+  ],
+  "settings": [
+    {
+      "id": "buttons",
+      "title": "Show Buttons",
+      "icon": "fas fa-compress-arrows-alt",
+      "value": true
+    }
+  ]
+}
